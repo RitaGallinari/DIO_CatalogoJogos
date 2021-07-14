@@ -1,0 +1,1 @@
+Este projeto é um laboratório do Curso da DIO, criando uma aplicação .Net de cadastro de Jogos.
